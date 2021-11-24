@@ -1,4 +1,0 @@
-{
-	"ignoreTestFiles": ["**/1-getting-started/*", "**/2-advanced-examples/*","**sauce.spec.js"],
-	"chromeWebSecurity": false
-}
